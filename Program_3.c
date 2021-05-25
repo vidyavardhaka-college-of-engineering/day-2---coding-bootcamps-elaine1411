@@ -3,10 +3,10 @@
 int main()
 {
 //Write your code bellow
-
+char hashtag='#';
 
 //if you write correct code fallowing output will print
-printf("%c\n",c);
+printf("%c\n",hashtag);
 printf("Good job..");
 return 0;
 }
